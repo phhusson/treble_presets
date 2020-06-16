@@ -2,6 +2,7 @@
     {
         "match_property": "vendor_fp",
         "match_value": "realme/RMX1931.*",
+        "device_name": "Realme X2 Pro",
 
         "maintainer": {
             "name": "phhusson",
