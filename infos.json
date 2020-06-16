@@ -9,6 +9,9 @@
         },
         "community": {
             "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_mediaprofile": "true"
         }
     }
 ]
