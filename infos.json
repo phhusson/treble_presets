@@ -1,0 +1,15 @@
+[
+    {
+        "match_property": "vendor_fp",
+        "match_value": "realme/RMX1931.*",
+
+        "maintainer": {
+            "name": "phhusson",
+            "telegram": "https://t.me/phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        }
+    }
+]
+
