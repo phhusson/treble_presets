@@ -15,6 +15,21 @@
             "key_qualcomm_alternate_mediaprofile": true,
             "key_misc_rounded_corners": "12"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "vsmart/V620A_open.*",
+        "device_name": "Vsmart Live",
+
+        "maintainer": {
+            "name": "Al Jo"
+        },
+        "community": {
+            "telegram": "https://t.me/vsmartvietnam"
+        },
+        "preferences": {
+            "key_misc_rounded_corners": "12"
+        }
     }
 ]
 
