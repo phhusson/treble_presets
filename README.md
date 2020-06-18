@@ -17,5 +17,6 @@ Of course, if on top of that, you manage to fix issues by yourself, and send tho
 
 ### Replacing maintainer
 
-You want to replace me(phhusson) as maintainer of any device? Feel free! I have too many devices already!
+You want to replace me(phhusson) as maintainer of any device?
+Feel free! I have too many devices already! (No you won't get a free device with that)
 
