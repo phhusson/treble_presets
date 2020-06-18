@@ -30,6 +30,18 @@
         "preferences": {
             "key_misc_rounded_corners": "12"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "xiaomi/daisy.*",
+        "device_name": "Xiaomi Mi A2 Lite",
+
+        "maintainer": {
+            "name": "Victor Bo"
+        },
+        "community": {
+            "telegram": "https://t.me/phhdaisy"
+        }
     }
 ]
 
