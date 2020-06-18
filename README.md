@@ -10,7 +10,7 @@ Also, this contains presets, so that if your device works better with some Trebl
 Really, anyone. The requirements I have for someone to become a maintainer is:
 1. Have that device (not a "close to" device)
 2. Know how to take logs
-3. Be available to users asking questions, and reproduce issues
+3. Be available to users reporintg issues, and reproduce them
 4. Forward me the actual issues to [my bug tracker](https://github.com/phhusson/treble_experimentations/issues)
 
 Of course, if on top of that, you manage to fix issues by yourself, and send those fixes to me, it's better :-)
