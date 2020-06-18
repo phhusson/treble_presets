@@ -13,6 +13,7 @@
         },
         "preferences": {
             "key_qualcomm_alternate_mediaprofile": true,
+            "key_qualcomm_alternate_audiopolicy": true,
             "key_misc_rounded_corners": "12"
         }
     },
@@ -95,6 +96,81 @@
             "key_misc_force_navbar_off": true,
             "key_misc_linear_brightness": true,
             "key_samsung_high_brightness": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Xiaomi/cepheus.*",
+        "device_name": "Xiaomi Mi9",
+
+        "maintainer": {
+            "name": "phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_misc_rounded_corners": "12",
+            "key_qualcomm_alternate_mediaprofile": "true"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "motorola/troika.*",
+        "device_name": "Moto One Action",
+
+        "maintainer": {
+            "name": "phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "asus/.*/ASUS_I01WD.*",
+        "device_name": "Asus Zenfone 6",
+
+        "maintainer": {
+            "name": "phhusson",
+            "telegram": "https://t.me/phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_mediaprofile": true,
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_rounded_corners": "20"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "nubia/NX659J.*",
+        "device_name": "Redmagic 5G",
+
+        "maintainer": {
+            "name": "phhusson",
+            "telegram": "https://t.me/phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_rounded_corners": "16"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Unihertz/Titan.*",
+        "device_name": "Unihertz Titan",
+
+        "maintainer": {
+            "name": "phhusson"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
         }
     }
 
