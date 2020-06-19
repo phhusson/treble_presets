@@ -198,6 +198,18 @@
         "community": {
             "telegram": "https://t.me/phhtreble"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "motorola/channel.*",
+        "device_name": "Motorola Moto G7 Play",
+
+        "maintainer": {
+            "name": "Amy Grace"
+        },
+        "community": {
+            "telegram": "https://t.me/g7_play"
+        }
     }
 
 ]
