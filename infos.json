@@ -198,7 +198,7 @@
         "community": {
             "telegram": "https://t.me/phhtreble"
         }
-    }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "motorola/channel.*",
