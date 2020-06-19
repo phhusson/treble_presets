@@ -46,6 +46,20 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "Xiaomi/pine/.*",
+        "device_name": "Xiaomi Redmi 7A",
+        "maintainer": {
+            "name": "Khushraj Rathod"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_misc_camera_timestamp": "1"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "samsung/a51n.*",
         "device_name": "Samsung Galaxy A51",
 
