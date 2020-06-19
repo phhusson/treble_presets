@@ -186,6 +186,18 @@
         "community": {
             "telegram": "https://t.me/phhtreble"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "xiaomi/lavender.*",
+        "device_name": "Xiaomi Redmi Note 7",
+
+        "maintainer": {
+            "name": "darkestDark"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        }
     }
 
 ]
