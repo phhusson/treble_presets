@@ -233,6 +233,22 @@
         },
         "community": {
             "telegram": "https://t.me/hi6250group"
+		}
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "GM/GM9PRO.*",
+        "device_name": "GM 9 Pro",
+
+        "maintainer": {
+            "name": "erdilS",
+            "telegram": "https://t.me/erdilS"
+        },
+        "community": {
+            "telegram": "https://t.me/gm9pro"
+        },
+        "preferences": {
+            "key_misc_force_camera2api_hal3": true
         }
     }	
 ]
