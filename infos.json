@@ -210,7 +210,17 @@
         "community": {
             "telegram": "https://t.me/g7_play"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "xiaomi/cactus.*",
+        "device_name": "Redmi 6A",
+        "maintainer": {
+            "name": "Myst33d",
+            "telegram": "https://t.me/myst33d"
+        },
+        "community": {
+            "telegram": "https://t.me/Redmi6AOfficial"
+        }
     }
-
 ]
-
