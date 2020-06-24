@@ -250,5 +250,22 @@
         "preferences": {
             "key_misc_force_camera2api_hal3": true
         }
-    }	
+    },	
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Nokia/Phoenix.*",
+        "device_name": "Nokia 8.1",
+
+        "maintainer": {
+            "name": "TechnoStone",
+            "telegram": "https://t.me/TechnoStone"
+        },
+        "community": {
+            "telegram": "https://t.me/NokiaX7"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_mediaprofile": true,
+            "key_qualcomm_alternate_audiopolicy": true
+        }
+    }
 ]
