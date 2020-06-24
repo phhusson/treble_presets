@@ -265,7 +265,7 @@
         },
         "preferences": {
             "key_qualcomm_alternate_mediaprofile": true,
-            "key_qualcomm_alternate_audiopolicy": true,
+            "key_qualcomm_alternate_audiopolicy": true
         }
     }
 ]
