@@ -130,6 +130,22 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "Xiaomi/davinci.*",
+        "device_name": "Xiaomi Mi 9T",
+
+        "maintainer": {
+            "name": "Lennert Franssens",
+            "telegram": "https://t.me/lennertfranssens"
+        },
+        "community": {
+            "telegram": "https://t.me/RedmiK20GlobalOfficial"
+        },
+        "preferences": {
+            "key_misc_rounded_corners": "4",
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "motorola/troika.*",
         "device_name": "Moto One Action",
 
