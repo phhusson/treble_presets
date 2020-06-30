@@ -78,6 +78,23 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "samsung/gta3xl.*",
+        "device_name": "Samsung Galaxy Tab A 10.1 (2019)",
+
+        "maintainer": {
+            "name": "Magendanz"
+        },
+        "community": {
+            "telegram": "https://t.me/magendanz"
+        },
+        "preferences": {
+            "key_samsung_high_brightness": true,
+            "key_samsung_double_tap_to_wake": true,
+            "key_samsung_extra_sensors": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "samsung/herolte.*",
         "device_name": "Samsung Galaxy S7",
 
