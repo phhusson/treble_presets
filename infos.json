@@ -191,6 +191,23 @@
             "key_misc_rounded_corners": "16"
         }
     },
+	{
+        "match_property": "vendor_fp",
+        "match_value": "ASUS/X00R.*",
+        "device_name": "Zenfone Lite L1",
+
+        "maintainer": {
+            "name": "Techfanciers",
+            "telegram": "https://t.me/techfanciers"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_rounded_corners": "16"
+        }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "Unihertz/Titan.*",
