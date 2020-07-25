@@ -202,10 +202,6 @@
         },
         "community": {
             "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_rounded_corners": "16"
         }
     },
     {
