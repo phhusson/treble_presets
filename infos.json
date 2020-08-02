@@ -226,6 +226,13 @@
         },
         "community": {
             "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+         "key_qualcomm_alternate_mediaprofile": true,
+         "key_qualcomm_alternate_audiopolicy": true,
+         "key_misc_rounded_corners": "6",
+         "key_misc_multi_camera": true,
+         "xiaomi_double_tap_to_wake": true
         }
     },
     {
