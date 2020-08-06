@@ -235,6 +235,23 @@
          "xiaomi_double_tap_to_wake": true
         }
     },
+{
+        "match_property": "vendor_fp",
+        "match_value": "xiaomi/clover.*",
+        "device_name": "Xiaomi Mi Pad 4",
+
+        "maintainer": {
+            "name": "darkestDark"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+         "key_qualcomm_alternate_mediaprofile": true,
+         "key_qualcomm_alternate_audiopolicy": true,
+         "xiaomi_double_tap_to_wake": true
+        }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "motorola/channel.*",
