@@ -60,6 +60,22 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "samsung/a40.*",
+        "device_name": "Samsung Galaxy A40",
+
+        "maintainer": {
+            "name": "ponces",
+            "telegram": "https://t.me/ponces"
+        },
+        "community": {
+            "telegram": "https://t.me/sga40"
+        },
+        "preferences": {
+            "key_samsung_double_tap_to_wake": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "samsung/a51n.*",
         "device_name": "Samsung Galaxy A51",
 
