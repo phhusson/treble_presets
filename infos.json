@@ -71,7 +71,8 @@
             "telegram": "https://t.me/sga40"
         },
         "preferences": {
-            "key_samsung_double_tap_to_wake": true
+            "key_samsung_double_tap_to_wake": true,
+            "key_samsung_camera_ids": true
         }
     },
     {
