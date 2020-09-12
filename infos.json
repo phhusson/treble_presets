@@ -288,18 +288,6 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "motorola/channel.*",
-        "device_name": "Motorola Moto G7 Play",
-
-        "maintainer": {
-            "name": "Amy Grace"
-        },
-        "community": {
-            "telegram": "https://t.me/G7Play"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
         "match_value": "xiaomi/cactus.*",
         "device_name": "Redmi 6A",
         "maintainer": {
