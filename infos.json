@@ -343,10 +343,10 @@
             "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true
         }
-    }
+    },
     {
         "match_property": "vendor_fp",
-        "match_value": "Xiaomi/olive.*",
+        "match_value": "xiaomi/olive.*",
         "device_name": "Xiaomi Redmi 8",
 
         "maintainer": {
@@ -356,5 +356,5 @@
         "community": {
             "telegram": "https://t.me/redmi8gsi"
         }
-    },
+    }
 ]
