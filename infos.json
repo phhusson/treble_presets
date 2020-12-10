@@ -344,5 +344,22 @@
             "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true
         }
+    },   
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Nokia/Panda_00WW.*",
+        "device_name": "Nokia 5.1 Plus",
+
+        "maintainer": {
+            "name": "Asim Ranjha",
+            "telegram": "https://t.me/RanjhaG"
+        },
+        "community": {
+            "telegram": "https://t.me/NokiaX5official"
+        },
+        "preferences": {
+            "key_misc_force_a2dp_offload_disable": true
+        }
     }
 ]
+
