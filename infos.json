@@ -360,6 +360,21 @@
         "preferences": {
             "key_misc_force_a2dp_offload_disable": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "lge/caymanlm*",
+        "device_name": "LG Velvet 5G",
+
+        "maintainer": {
+            "name": "dom133"
+        },
+        "community": {
+            "telegram": "https://t.me/velvetcommunity"
+        },
+        "preferences": {
+            "key_misc_rounded_corners": "30"
+        }
     }
 ]
 
