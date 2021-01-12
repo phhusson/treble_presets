@@ -149,6 +149,50 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_vale": "samsung/a70.*",
+        "device_name": "Samsung Galaxy A70",
+
+        "maintainer": {
+            "name": "firemax13",
+            "telegram": "https://t.me/Icemax13"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_samsung_double_tap_to_wake": "true",
+            "key_samsung_camera_ids": "true",
+            "key_misc_rounded_corners": "12",
+            "key_samsung_extra_sensors": "true",
+            "key_samsung_backlight_multiplier": "2",
+            "key_samsung_high_brightness": "true",
+            "key_misc_force_a2dp_offload_disable": "true"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_vale": "samsung/a80.*",
+        "device_name": "Samsung Galaxy A80",
+
+        "maintainer": {
+            "name": "firemax13",
+            "telegram": "https://t.me/Icemax13"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_samsung_double_tap_to_wake": "true",
+            "key_samsung_camera_ids": "true",
+            "key_misc_rounded_corners": "12",
+            "key_samsung_extra_sensors": "true",
+            "key_samsung_backlight_multiplier": "2",
+            "key_samsung_high_brightness": "true",
+            "key_misc_force_a2dp_offload_disable": "true"
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "Xiaomi/cepheus.*",
         "device_name": "Xiaomi Mi9",
 
@@ -344,7 +388,7 @@
             "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true
         }
-    },   
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "Nokia/Panda_00WW.*",
@@ -374,50 +418,6 @@
         },
         "preferences": {
             "key_misc_rounded_corners": "30"
-        }
-    },
-    {
-	"match_property": "vendor_fp",
-	"match_vale": "samsung/a70.*",
-	"device_name": "Samsung Galaxy A70",
-
-	"maintainer": {
-	    "name": "firemax13",
-	    "telegram": "https://t.me/Icemax13"
-	},
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-	"preferences": {
-	    "key_samsung_double_tap_to_wake": "true",
-            "key_samsung_camera_ids": "true",
-            "key_misc_rounded_corners": "12",
-            "key_samsung_extra_sensors": "true",
-            "key_samsung_backlight_multiplier": "2",
-            "key_samsung_high_brightness": "true",
-            "key_misc_force_a2dp_offload_disable": "true"
-	}
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_vale": "samsung/a80.*",
-        "device_name": "Samsung Galaxy A80",
-
-        "maintainer": {
-            "name": "firemax13",
-            "telegram": "https://t.me/Icemax13"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_samsung_double_tap_to_wake": "true",
-            "key_samsung_camera_ids": "true",
-            "key_misc_rounded_corners": "12",
-            "key_samsung_extra_sensors": "true",
-            "key_samsung_backlight_multiplier": "2",
-            "key_samsung_high_brightness": "true",
-            "key_misc_force_a2dp_offload_disable": "true"
         }
     }
 ]
