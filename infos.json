@@ -375,6 +375,22 @@
         "preferences": {
             "key_misc_rounded_corners": "30"
         }
-    }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Realme/rmx2020*",
+        "device_name": "Realme C3",
+
+        "maintainer": {
+            "name": "Sarthak Roy",
+            "telegram": "https://t.me/sarthakroy2002"
+        },
+        "community": {
+            "telegram": "https://t.me/RealmeC310a"
+        },
+        "preferences": {
+            "key_misc_linear_brightness": true		 
+        }
+    }	
 ]
 
