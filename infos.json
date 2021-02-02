@@ -378,5 +378,18 @@
             "key_misc_rounded_corners": "30"
         }
     }
+{
+        "match_property": "vendor_fp",
+        "match_value": "motorola/pokerp.*",
+        "device_name": "Moto E6 Plus",
+
+        "maintainer": {
+            "name": "LichtEstarossx"
+            "telegram": "https://t.me/licht_estarossx"
+        },
+        "community": {
+            "telegram": "https://t.me/motoe6plusofficial"
+        }
+    }
 ]
 
