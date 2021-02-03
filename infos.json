@@ -389,7 +389,8 @@
         },
         "community": {
             "telegram": "https://t.me/motoe6plusofficial"
+        "preferences": {
+            "key_misc_linear_brightness": true,
         }
     }
 ]
-
