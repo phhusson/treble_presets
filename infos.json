@@ -377,6 +377,25 @@
         "preferences": {
             "key_misc_rounded_corners": "30"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "realme/RMX194*",
+        "device_name": "Realme C2",
+
+        "maintainer": {
+            "name": "SIDDK",
+            "telegram": "https://t.me/SIDDK"
+        },
+        "community": {
+            "telegram": "https://https://t.me/RealmeC2Community"
+        },
+        "preferences": {
+            "key_misc_rounded_corners": "19",
+	    "key_misc_headset_devinput": true,
+	    "key_misc_force_camera2api_hal3": true
+	    "key_misc_multi_camera": true,
+        }
     }
 ]
 
