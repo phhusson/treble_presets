@@ -393,8 +393,8 @@
         "preferences": {
             "key_misc_rounded_corners": "19",
 	    "key_misc_headset_devinput": true,
-	    "key_misc_force_camera2api_hal3": true
-	    "key_misc_multi_camera": true,
+	    "key_misc_force_camera2api_hal3": true,
+	    "key_misc_multi_camera": true
         }
     }
 ]
