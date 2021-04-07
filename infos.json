@@ -400,6 +400,21 @@
 	    "key_oppo_ts_game_mode": true,
 	    "key_oppo_usb_otg": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "POCO/citrus_*",
+        "device_name": "Poco M3",
+        "maintainer": {
+            "name": "edwining01"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_backlight_scale": true
+        }
     }
 ]
 
