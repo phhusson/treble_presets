@@ -91,9 +91,8 @@
         "preferences": {
             "key_misc_rounded_corners": "12",
             "key_samsung_camera_ids": "true",
-            "key_samsung_extra_sensors": "true",
-            "key_samsung_backlight_multiplier": "2"
-        }
+            "key_samsung_extra_sensors": "true"
+	}
     },
     {
         "match_property": "vendor_fp",
