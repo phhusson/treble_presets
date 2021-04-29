@@ -415,6 +415,21 @@
             "key_qualcomm_alternate_audiopolicy": true,
             "key_misc_backlight_scale": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Teracube/Teracube_One*",
+        "device_name": "Teracube One",
+        "maintainer": {
+            "name": "Amy Grace"
+        },
+        "community": {
+            "telegram": "https://t.me/teracube_oss"
+        },
+        "preferences": {
+            "key_misc_headset_devinput": true,
+            "key_misc_rounded_corners": 15
+        }
     }
 ]
 
