@@ -402,7 +402,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "lge/caymanlm*",
+        "match_value": "lge/cayman*",
         "device_name": "LG Velvet 5G",
 
         "maintainer": {
