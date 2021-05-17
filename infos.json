@@ -402,7 +402,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "lge/cayman*",
+        "match_value": "lge/cayman.*",
         "device_name": "LG Velvet 5G",
 
         "maintainer": {
@@ -412,7 +412,9 @@
             "telegram": "https://t.me/velvetcommunity"
         },
         "preferences": {
-            "key_misc_rounded_corners": "30"
+            "key_misc_rounded_corners": "35",
+	    "key_qualcomm_alternate_audiopolicy": true,
+	    "key_misc_force_a2dp_offload_disable": true
         }
     },
     {
