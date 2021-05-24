@@ -483,7 +483,7 @@
         },
         "preferences": {
             "key_misc_headset_devinput": true,
-            "key_misc_backlight_scale": true,
+            "key_misc_backlight_scale": true
         }
     }
 ]
