@@ -469,6 +469,22 @@
             "key_misc_headset_devinput": true,
             "key_misc_rounded_corners": 15
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "realme/RMX2189.*",
+        "device_name": "Realme C12",
+        "maintainer": {
+            "name": "HemanthJabalpuri",
+            "telegram": "https://t.me/HemanthJabalpuri"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_misc_headset_devinput": true,
+            "key_misc_backlight_scale": true
+        }
     }
 ]
 
