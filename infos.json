@@ -69,12 +69,14 @@
             "telegram": "https://t.me/ponces"
         },
         "community": {
-            "telegram": "https://t.me/sga40"
+            "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
             "key_misc_rounded_corners": "48",
             "key_samsung_double_tap_to_wake": true,
-            "key_samsung_camera_ids": true
+            "key_samsung_camera_ids": true,
+            "key_samsung_alternate_audio_policy": true,
+            "key_samsung_esco_transport_unit_size": "16"
         }
     },
     {
