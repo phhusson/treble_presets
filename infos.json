@@ -487,6 +487,21 @@
             "key_misc_headset_devinput": true,
             "key_misc_backlight_scale": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "oneplus/OnePlusNordCE_EEA*",
+        "device_name": "Oneplus Nord CE 5G",
+        "maintainer": {
+            "name": "ManuBraibant"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_force_a2dp_offload_disable": true
+        }
     }
 ]
 
