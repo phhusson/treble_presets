@@ -341,6 +341,23 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "Redmi/merlin.*",
+        "device_name": "Redmi Note 9",
+        "maintainer": {
+            "name": "Myst33d",
+            "telegram": "https://t.me/myst33d"
+        },
+        "community": {
+            "telegram": "https://t.me/HelioG85_Unified"
+        },
+        "preferences": {
+            "key_misc_headset_devinput": true,
+            "key_misc_force_a2dp_offload_disable": true,
+            "key_misc_backlight_scale": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "HUAWEI/PRA-.*",
         "device_name": "Huawei P8 Lite 2017",
         "maintainer": {
