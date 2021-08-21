@@ -491,6 +491,22 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "realme/RMX2185.*",
+        "device_name": "Realme C11",
+        "maintainer": {
+            "name": "Aryan Sinha",
+            "telegram": "https://t.me/minatiscape"
+        },
+        "community": {
+            "telegram": "https://t.me/Realmec11_official"
+        },
+        "preferences": {
+            "key_misc_headset_devinput": true,
+            "key_misc_backlight_scale": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "realme/RMX2189.*",
         "device_name": "Realme C12",
         "maintainer": {
