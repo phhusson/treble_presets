@@ -535,6 +535,20 @@
             "key_qualcomm_alternate_audiopolicy": true,
             "key_misc_force_a2dp_offload_disable": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Teracube/Teracube_2e*",
+        "device_name": "Teracube 2e",
+        "maintainer": {
+            "name": "Amy Grace"
+        },
+        "community": {
+            "telegram": "https://t.me/teracube_oss"
+        },
+        "preferences": {
+            "key_misc_headset_devinput": true
+        }
     }
 ]
 
