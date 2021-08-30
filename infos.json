@@ -523,7 +523,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "OnePlus/OnePlusNordCE_EEA*",
+        "match_value": "OnePlus/OnePlusNordCE*",
         "device_name": "Oneplus Nord CE 5G",
         "maintainer": {
             "name": "ManuBraibant"
