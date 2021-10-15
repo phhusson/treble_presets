@@ -549,7 +549,7 @@
         "preferences": {
             "key_misc_headset_devinput": true
         }
-    }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "samsung/a9y18*",
