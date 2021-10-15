@@ -550,5 +550,22 @@
             "key_misc_headset_devinput": true
         }
     }
+    {
+        "match_property": "vendor_fp",
+        "match_value": "samsung/a9y18*",
+        "device_name": "Samsung Galaxy A9 (2018)",
+        "maintainer": {
+            "name": "James Nguyen"
+  	    "telegram": "https://t.me/thongass000"
+        },
+        "community": {
+            "telegram": "https://t.me/SamsungA9TestingGroup"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+	    "key_samsung_esco_transport_unit_size": "16",
+	    "key_misc_force_a2dp_offload_disable": true
+        }
+    }
 ]
 
