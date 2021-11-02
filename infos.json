@@ -586,7 +586,7 @@
 	    "key_misc_force_camera2api_hal3": true,
         }
     },
-    {
+{
         "match_property": "vendor_fp",
         "match_value": "realme/RMX1811",
         "device_name": "Realme C1",
