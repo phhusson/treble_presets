@@ -572,6 +572,21 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "motorola/pokerp.*",
+        "device_name": "Moto E6 Plus",
+
+        "maintainer": {
+            "name": "KatoTempest"
+        },
+        "community": {
+            "telegram": "https://t.me/Nathe_test_disc"
+        },
+	         "preferences": {
+            "key_misc_backlight_scale": true   
+      }
+     },
+    {
+        "match_property": "vendor_fp",
         "match_value": "samsung/a9y18*",
         "device_name": "Samsung Galaxy A9 (2018)",
         "maintainer": {
