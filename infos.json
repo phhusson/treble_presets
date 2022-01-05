@@ -581,7 +581,7 @@
 	         "preferences": {
             "key_misc_backlight_scale": true   
       }
-     },
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "samsung/a9y18*",
