@@ -573,13 +573,10 @@
     {
         "match_property": "vendor_fp",
         "match_value": "motorola/pokerp.*",
-        "device_name": "Moto E6 Plus",
-
-        "maintainer": {
-            "name": "KatoTempest"
+        "device_name": "Moto E6 Plus"
         },
         "community": {
-            "telegram": "https://t.me/Nathe_test_disc"
+            "telegram": "https://t.me/motoe6plusdev"
         },
 	         "preferences": {
             "key_misc_backlight_scale": true   
