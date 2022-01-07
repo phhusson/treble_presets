@@ -606,9 +606,8 @@
         "match_property": "vendor_fp",
         "match_value": "samsung/r8sxx*",
         "device_name": "Samsung S20 FE 4G (SM-G780F)",
-
         "maintainer": {
-            "name": "smxdfx"
+            "name": "smxdfx",
 	    "telegram": "@smxdfx"
         },
         "community": {
