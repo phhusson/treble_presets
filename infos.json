@@ -601,6 +601,25 @@
 	    "key_samsung_esco_transport_unit_size": "16",
 	    "key_misc_force_a2dp_offload_disable": true
         }
-    }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "samsung/r8sxx*",
+        "device_name": "Samsung S20 FE 4G (SM-G780F)",
+        "maintainer": {
+            "name": "smxdfx",
+	    "telegram": "@smxdfx"
+        },
+        "community": {
+            "telegram": "https://t.me/S20FeModding"
+        },
+	"preferences": {
+		"key_samsung_esco_transport_unit_size": "16",
+         	"key_misc_headset_devinput": true,
+		"key_samsung_extra_sensors": true,
+		"key_samsung_camera_ids": true,
+		"key_samsung_double_tap_to_wake": true
+	}
+      }
 ]
 
