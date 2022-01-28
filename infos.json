@@ -623,7 +623,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "xiaomi/renoir",
+        "match_value": "Xiaomi/renoir.*",
         "device_name": "Xiaomi Mi 11 Lite 5G",
 
         "maintainer": {
