@@ -402,7 +402,7 @@
             "key_misc_headset_devinput": true,
             "key_misc_force_a2dp_offload_disable": true
         }
-    },   
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "Nokia/Panda_00WW.*",
@@ -582,7 +582,7 @@
             "telegram": "https://t.me/motoe6plusdev"
         },
         "preferences": {
-            "key_misc_backlight_scale": true   
+            "key_misc_backlight_scale": true
         }
      },
     {
@@ -639,6 +639,68 @@
             "key_qualcomm_disable_soundvolume_effect": true,
             "xiaomi_double_tap_to_wake": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Samsung/o1s*",
+        "device_name": "Samsung Galaxy S21 (exynos)",
+
+        "maintainer": {
+            "name": "haridhayal11"
+        },
+        "community": {
+            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
+        },
+        "preferences": {
+            "key_misc_linear_brightness": true,
+            "key_misc_rounded_corners": "48",
+            "key_misc_display_fps": "0",
+            "key_samsung_high_brightness": true,
+            "key_samsung_extra_sensors": true,
+            "key_samsung_camera_ids": true,
+            "key_samsung_double_tap_to_wake": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Samsung/t2s*",
+        "device_name": "Samsung Galaxy S21+ (exynos)",
+
+        "maintainer": {
+            "name": "haridhayal11"
+        },
+        "community": {
+            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
+        },
+        "preferences": {
+            "key_misc_linear_brightness": true,
+            "key_misc_rounded_corners": "48",
+            "key_misc_display_fps": "0",
+            "key_samsung_high_brightness": true,
+            "key_samsung_extra_sensors": true,
+            "key_samsung_camera_ids": true,
+            "key_samsung_double_tap_to_wake": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Samsung/p3s*",
+        "device_name": "Samsung Galaxy S21 Ultra (exynos)",
+
+        "maintainer": {
+            "name": "haridhayal11"
+        },
+        "community": {
+            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
+        },
+        "preferences": {
+            "key_misc_linear_brightness": true,
+            "key_misc_rounded_corners": "48",
+            "key_misc_display_fps": "0",
+            "key_samsung_high_brightness": true,
+            "key_samsung_extra_sensors": true,
+            "key_samsung_camera_ids": true,
+            "key_samsung_double_tap_to_wake": true
+        }
     }
 ]
-
