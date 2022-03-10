@@ -720,5 +720,22 @@
             "key_samsung_camera_ids": true,
             "key_samsung_double_tap_to_wake": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "motorola/liber.*",
+        "device_name": "Motorola One Fusion+",
+        "maintainer": {
+            "name": "ksdrar"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_disable_audio_effects": true,
+            "key_misc_force_a2dp_offload_disable": true,
+            "key_misc_rounded_corners": "50"
+        }
     }
 ]
