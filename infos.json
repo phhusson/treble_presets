@@ -376,6 +376,22 @@
     },
     {
         "match_property": "vendor_fp",
+        "match_value": "HUAWEI/COL-.*",
+        "device_name": "Honor 10",
+        "maintainer": {
+            "name": "xiaoleGun",
+            "telegram": "https://t.me/xiaoleGun"
+        },
+        "community": {
+            "telegram": "https://t.me/kirin970"
+        },
+        "preferences": {
+            "key_huawei_no_hwcomposer": true,
+            "key_huawei_fast_charge": 4000
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "HUAWEI/PRA-.*",
         "device_name": "Huawei P8 Lite 2017",
         "maintainer": {
