@@ -676,7 +676,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "Samsung/o1s*",
+        "match_value": "samsung/o1s*",
         "device_name": "Samsung Galaxy S21 (exynos)",
 
         "maintainer": {
@@ -697,7 +697,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "Samsung/t2s*",
+        "match_value": "samsung/t2s*",
         "device_name": "Samsung Galaxy S21+ (exynos)",
 
         "maintainer": {
@@ -718,7 +718,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "Samsung/p3s*",
+        "match_value": "samsung/p3s*",
         "device_name": "Samsung Galaxy S21 Ultra (exynos)",
 
         "maintainer": {
