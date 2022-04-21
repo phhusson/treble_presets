@@ -748,8 +748,6 @@
             "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_disable_audio_effects": true,
             "key_misc_force_a2dp_offload_disable": true,
             "key_misc_rounded_corners": "50"
         }
