@@ -751,5 +751,30 @@
             "key_misc_force_a2dp_offload_disable": true,
             "key_misc_rounded_corners": "50"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "samsung/m31s.*",
+        "device_name": "Samsung Galaxy M31s",
+
+        "maintainer": {
+            "name": "Rufus IR"
+        },
+        "community": {
+            "telegram": "https://t.me/samsungm31sup/"
+        },
+        "preferences": {
+            "key_misc_multi_camera": true,
+            "key_misc_linear_brightness": true,
+            "key_misc_backlight_scale": true,
+            "key_misc_headset_devinput": true,
+            "key_misc_force_a2dp_offload_disable": true,
+            "key_samsung_alternate_audio_policy": true,
+            "key_samsung_esco_transport_unit_size": "16",
+            "key_samsung_high_brightness": true,
+            "key_samsung_double_tap_to_wake": true,
+            "key_samsung_camera_ids": true,
+            "key_samsung_extra_sensors": true
+        }
     }
 ]
