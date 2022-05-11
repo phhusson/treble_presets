@@ -776,5 +776,22 @@
             "key_samsung_camera_ids": true,
             "key_samsung_extra_sensors": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "OPPO/CPH2239*",
+        "device_name": "OPPO A54",
+
+        "maintainer": {
+            "name": "Johx22"
+        },
+        "community": {
+            "telegram": "https://t.me/oppoa54discussion/"
+        },
+        "preferences": {
+            "key_misc_multi_camera": true,
+            "key_misc_backlight_scale": true
+        }
     }
+
 ]
