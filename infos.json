@@ -790,7 +790,7 @@
         },
         "preferences": {
             "key_misc_multi_camera": true,
-            "key_misc_backlight_scale": true,
+            "key_misc_backlight_scale": true
         }
     }
 
