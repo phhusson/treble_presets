@@ -434,6 +434,7 @@
         "preferences": {
             "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true,
+            "key_qualcomm_disable_soundvolume_effect": true,
             "key_misc_headset_devinput": true,
             "key_misc_force_a2dp_offload_disable": true
         }
