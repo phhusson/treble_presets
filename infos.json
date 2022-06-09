@@ -672,7 +672,8 @@
             "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true,
             "key_qualcomm_disable_soundvolume_effect": true,
-            "xiaomi_double_tap_to_wake": true
+            "xiaomi_double_tap_to_wake": true,
+            "key_misc_backlight_scale": true
         }
     },
     {
