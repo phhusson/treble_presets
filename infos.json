@@ -17,6 +17,26 @@
             "key_misc_rounded_corners": "12"
         }
     },
+      {
+        "match_property": "vendor_fp",
+        "match_value": "Redmi/fog.*",
+        "device_name": "Xiaomi Redmi 10C",
+
+        "maintainer": {
+            "name": "stoplmp",
+            "telegram": "https://t.me/stoplookmypic"
+        },
+        "community": {
+            "telegram": "https://t.me/Redmi10CChat"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_mediaprofile": true,
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_misc_backlight_scale": "true",
+            "key_misc_force_a2dp_offload_disable": "true"
+            
+        }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "vsmart/V620A_open.*",
