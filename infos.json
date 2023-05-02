@@ -695,12 +695,13 @@
             "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
-            "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true,
             "key_qualcomm_disable_soundvolume_effect": true,
+            "key_qualcomm_disable_stereo_voip": true,
             "xiaomi_double_tap_to_wake": true,
             "xiaomi_disable_sunlight_mode": true,
-            "key_misc_backlight_scale": true
+            "key_misc_backlight_scale": true,
+            "key_misc_dynamic_sysbta": true
         }
     },
     {
