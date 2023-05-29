@@ -695,6 +695,7 @@
             "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
+            "key_qualcomm_alternate_mediaprofile": true,
             "key_qualcomm_alternate_audiopolicy": true,
             "key_qualcomm_disable_soundvolume_effect": true,
             "key_qualcomm_disable_stereo_voip": true,
