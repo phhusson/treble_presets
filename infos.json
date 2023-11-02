@@ -842,6 +842,19 @@
             "key_misc_multi_camera": true,
             "key_misc_backlight_scale": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "motorola/coful.*",
+        "device_name": "Moto G31",
+        "maintainer": {
+            "name": "Swastik369"
+        },
+        "community": {
+            "telegram": "https://t.me/swastik369"
+        },
+        "preferences": {
+            "key_misc_bluetooth": "mediatek"
+        }
     }
-
 ]
