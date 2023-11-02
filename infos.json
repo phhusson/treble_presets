@@ -844,17 +844,17 @@
         }
     },
     {
-        "match_property": "vendor_fp",
-        "match_value": "motorola/coful.*",
+        "match_property": "vendor_fp",
+        "match_value": "motorola/coful.*",
         "device_name": "Moto G31",
-        "maintainer": {
-            "name": "Swastik369"
-        },
-        "community": {
-            "telegram": "https://t.me/swastik369"
-        },
-        "preferences": {
-            "key_misc_bluetooth": "mediatek"
-        }
+        "maintainer": {
+            "name": "Swastik369"
+        },
+        "community": {
+            "telegram": "https://t.me/swastik369"
+        },
+        "preferences": {
+            "key_misc_bluetooth": "mediatek"
         }
+    }
 ]
