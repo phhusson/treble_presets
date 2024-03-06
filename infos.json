@@ -1,6 +1,25 @@
 [
     {
         "match_property": "vendor_fp",
+        "match_value": "realme/RMX3081*",
+        "device_name": "Realme 8 Pro",
+
+        "maintainer": {
+            "name": "melontini"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble/"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": true,
+            "key_qualcomm_disable_stereo_voip": true,
+            "key_misc_disable_sf_gl_backpressure": true,
+            "key_misc_restart_ril": true,
+            "key_misc_dynamic_sysbta": true
+        }
+    },
+    {
+        "match_property": "vendor_fp",
         "match_value": "realme/RMX1931.*",
         "device_name": "Realme X2 Pro",
 
