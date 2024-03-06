@@ -12,6 +12,7 @@
         },
         "preferences": {
             "key_qualcomm_alternate_audiopolicy": true,
+            "key_qualcomm_disable_soundvolume_effect": true,
             "key_qualcomm_disable_stereo_voip": true,
             "key_misc_disable_sf_gl_backpressure": true,
             "key_misc_restart_ril": true,
