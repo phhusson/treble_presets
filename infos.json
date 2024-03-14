@@ -877,5 +877,26 @@
         "preferences": {
             "key_misc_bluetooth": "mediatek"
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Hisense/HLTE566N.*",
+        "device_name": "Hisense A9",
+        "maintainer": {
+            "name": "vbbot"
+        },
+        "community": {
+            "telegram": "https://t.me/phhtreble"
+        },
+        "preferences": {
+            "key_qualcomm_alternate_audiopolicy": "true",
+            "key_qualcomm_disable_soundvolume_effect": "true",
+            "key_qualcomm_disable_stereo_voip": "true",
+            "key_misc_no_hwcomposer": "true",
+            "key_misc_aod": "true",
+            "key_ims_install_apn": "true",
+            "key_ims_request_network": "true",
+            "key_ims_force_enable_setting": "true"
+        }
     }
 ]
