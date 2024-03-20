@@ -880,7 +880,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "Hisense/HLTE566N.*",
+        "match_value": "Hisense/HLTE566N*",
         "device_name": "Hisense A9",
         "maintainer": {
             "name": "vbbot"
