@@ -138,10 +138,10 @@
             "key_samsung_camera_ids": "true",
             "key_misc_multi_camera": "true",           
             "key_misc_headset_devinput": "true",
-            "key_samsung_extra_sensors": "true"
+            "key_samsung_extra_sensors": "true",
             "key_samsung_alternate_audio_policy": true,
-            "key_samsung_esco_transport_unit_size": "16"
-            "key_samsung_high_brightness": "true",
+            "key_samsung_esco_transport_unit_size": "16",
+            "key_samsung_high_brightness": "true"
         }
     },
     {
