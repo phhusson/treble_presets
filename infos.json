@@ -122,7 +122,7 @@
     },
     {
         "match_property": "vendor_fp",
-        "match_value": "samsung/a10sxx*",
+        "match_value": "samsung/a10s.*",
         "device_name": "Samsung Galaxy A10s",
 
         "maintainer": {
